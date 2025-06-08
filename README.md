@@ -1,6 +1,4 @@
-# Shahyar Anfaz's GitHub Portfolio! 
-
-This portfolio contains all projects coded entirely or partly by Shahyar Anfaz. Collaborations will reference the other authors.
+### This portfolio contains all projects coded entirely or partly by Shahyar Anfaz. Collaborations will reference the other authors.
 ---
 
 ## Featured Projects
