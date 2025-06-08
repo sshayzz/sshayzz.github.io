@@ -5,7 +5,7 @@ This portfolio contains all projects coded entirely or partly by Shahyar Anfaz. 
 
 ## Featured Projects
 
-### [Space Invaders](Project-1---Space-Invaders)
+### [Space Invaders](Project1---Space-Invaders)
 - **Description**: An interactive 2D shooter game where you must survive the aliens, collect power-ups, and set high scores!
 - **Colloborators**: Averi Wylie
 - **Programming Language**: Python 3.11
