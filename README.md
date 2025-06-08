@@ -1,30 +1,62 @@
-### I am a second year student at the University of Toronto pursuing a computer science specialist and mathematics major. This portfolio contains all projects that I worked on. Collaborations will reference the other authors.
+# Space Invaders!
+
+A Python-based recreation of the classic arcade game **Space Invaders** made in collaboration with [Averi Wylie](https://www.linkedin.com/in/averiwylie/).
 
 ---
 
-## Featured Projects
+## 🎮 Features
 
-### [Space Invaders](Project1---SpaceInvaders)
-- **Description**: An interactive 2D shooter game where you must survive the aliens, collect power-ups, and set high scores!
-- **Colloborators**: Averi Wylie
-- **Programming Language**: Python 3.11
-
----
-
-## Let's Connect!
-
-I'm always open to new opportunities, feedback, and collaborations. Feel free to reach out!
-
-- Email: shahyaranfaz@gmail.com
-- LinkedIn: [Shahyar Anfaz](https://www.linkedin.com/in/shahyaranfaz/)
+- Player-controlled spaceship with 8D movement 
+- Enemy invaders that you must avoid
+- Projectile firing mechanics
+- Score tracking
+- Power-ups
 
 ---
 
-## Acknowledgments
+## 🚀 Getting Started
 
-I want to express my gratitude to the open-source community and all the contributors to the libraries and tools I use. Special thanks to GitHub for providing this awesome, free tool for any programmer to use!
+### Prerequisites
+
+- Python 3.11
+- Pygame library  
+
+### Installation
+
+```bash
+git clone https://github.com/sshayzz/Project-1---Space-Invaders.git
+cd Project-1---Space-Invaders  
+pip install pygame
+```
 
 ---
 
-Thank you for visiting my profile!
-# sshayzz.github.io
+## 📁 Project Structure
+
+Project-1---Space-Invaders/  
+├── assets/             # Game graphics and sounds  
+├── application.py      # Main game loop  
+├── interface.py        # UI classes  
+├── character.py        # Player and enemy classes  
+├── constants.py        # Game constants and configurations  
+├── game_token.py       # Token management  
+├── LICENSE             # Project license  
+├── README.md           # Project documentation  
+└── index.html          # Github pages website
+---
+
+# 🖼️ Screenshots
+
+Coming soon!
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/sshayzz/Project-1---Space-Invaders/blob/main/LICENSE) for details.
+
+---
+
+## 📬 Contact
+
+For questions or suggestions, please open an issue or contact Shahyar Anfaz or Averi Wylie
