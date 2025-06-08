@@ -1,4 +1,5 @@
-### This portfolio contains all projects coded entirely or partly by Shahyar Anfaz. Collaborations will reference the other authors.
+### I am a second year student at the University of Toronto pursuing a computer science specialist and mathematics major. This portfolio contains all projects that I worked on. Collaborations will reference the other authors.
+
 ---
 
 ## Featured Projects
