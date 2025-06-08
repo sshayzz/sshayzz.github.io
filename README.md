@@ -1,4 +1,4 @@
-### I am a second year student at the University of Toronto pursuing a computer science specialist and mathematics major. This portfolio contains all projects that I worked on. Collaborations will reference the other authors.Add commentMore actions
+### I am a second year student at the University of Toronto pursuing a computer science specialist and mathematics major. This portfolio contains all projects that I worked on. Collaborations will reference the other authors.
 
 ---
 
@@ -27,4 +27,4 @@ I want to express my gratitude to the open-source community and all the contribu
 ---
 
 Thank you for visiting my profile!
-# sshayzz.github.io
+### sshayzz.github.io
